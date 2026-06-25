@@ -24,6 +24,7 @@
 ```
 project/
 ├── main.c
+├── README.md
 └── scheduals/
     ├── 6월3주차.csv
     ├── 7월1주차.csv
